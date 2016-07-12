@@ -10,7 +10,7 @@ makeXml.generateXmlFile(540, 960);    // vivo Y51A,OPPO A33,vivo Y31A
 makeXml.generateXmlFile(600, 1024);  
 makeXml.generateXmlFile(720, 1184);  
 makeXml.generateXmlFile(720, 1196);  
-makeXml.generateXmlFile(720, 1280);   // OPPO A59,OPPO A37,华为畅享5S,vivo V3,三星W2015,OPPO A53,华为畅享5,荣耀4A,vivo X5L,荣耀畅玩4C,荣耀畅玩4X,三星GALAXY On5,金立S6,华为P8 Lite,华为Ascend P6,荣耀畅玩5A,中兴Blade A2,华为畅享5S,三星GALAXY On7,三星GALAXY A5,华硕电神5000,华为Ascend G7,金立金钢,小米红米Note,大神F2,联想乐檬K3,小米红米2,vivo Y27  
+makeXml.generateXmlFile(720, 1280);   // OPPO A59,OPPO A37,华为畅享5S,vivo V3,三星W2015,OPPO A53,华为畅享5,荣耀4A,vivo  X5L,荣耀畅玩4C,荣耀畅玩4X,三星GALAXY On5,金立S6,华为P8 Lite,华为Ascend P6,荣耀畅玩5A,中兴Blade A2,华为畅享5S,三星GALAXY On7,三星GALAXY A5,华硕电神5000,华为Ascend G7,金立金钢,小米红米Note,大神F2,联想乐檬K3,小米红米2,vivo Y27  
 makeXml.generateXmlFile(768, 1024);  
 makeXml.generateXmlFile(768, 1280);   // 三星W2016  
 makeXml.generateXmlFile(800, 1280);  
@@ -22,3 +22,4 @@ makeXml.generateXmlFile(1440, 2560);  // 三星GALAXY S7,vivo Xplay5,中兴天�
 makeXml.generateXmlFile(1536, 2560);  // 魅族MX4 Pro  
 makeXml.generateXmlFile(1600, 2560);  // OPPO Find 9  
 makeXml.generateXmlFile(2160, 3840);  // 索尼Xperia Z5 Premium  
+```
