@@ -2,6 +2,7 @@
 参考别人的代码修改的，新增了热门机型以便对照适配分辨率
 
 
+```java
 makeXml.generateXmlFile(320, 480);  
 makeXml.generateXmlFile(480, 800);    // 三星W2014  
 makeXml.generateXmlFile(480, 854);    // OPPO A31  
