@@ -10,6 +10,8 @@ import java.io.PrintWriter;
  * blog:blog.leapsea.com
  * Created by teemo on 2016/3/1.
  * update 2016.07.12  根据zol.com.cn热门手机排行榜整理
+ * update 2016.08.13  baseW baseH由float类型更改为int类型。不会再出现的.0问题
+ * 
  * http://detail.zol.com.cn/cell_phone_advSearch/subcate57_1_s6472-s6132-s5359-s5329-s1398-s6500-s6502-s6106_1_1_0_1.html?#showc
  */
 public class MakeXml {
@@ -17,8 +19,8 @@ public class MakeXml {
     private final static String rootPath = "D:/workSpace/android/Tourkaa/app/src/main/res";
     private final static String VALUE_TEMPLATE = "values-{0}x{1}";
 
-    private final static float baseW = 320f;
-    private final static float baseH = 480f;
+    private final static int baseW = 320f;
+    private final static int baseH = 480f;
 
     private final static String wTemplate = "<dimen name=\"x{0}\">{1}px</dimen>\n";
     private final static String hTemplate = "<dimen name=\"y{0}\">{1}px</dimen>\n";
